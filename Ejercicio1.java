@@ -1,5 +1,6 @@
 package variablesDatosOperadores;
         /*
+        ME CAGO EN LA PUTA PRÁCTICA 5 JODER
         Modifica el siguiente programa para hacer que compile y funcione:
 
         public class Suma {
